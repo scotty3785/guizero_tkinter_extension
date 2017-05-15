@@ -17,5 +17,5 @@ add_guizero_text=
 
 Two new menu option should appear in the 'Format' menu.
 
-##Limitations
+## Limitations
 IDLE extension cannot create a new menu, they can only add to existing menus. If a specific GUIZero menu is required, the Binding.py and EditorWindow.py files require modification.
